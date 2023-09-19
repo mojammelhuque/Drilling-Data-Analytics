@@ -1,4 +1,46 @@
-# Drilling-Data-Analytics
-This site contains a few of my recent data analytics example using raw drilling data /n
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Page</title>
+    <!-- Add your CSS styles or external CSS links here -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to My GitHub Page</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="section1">
+            <h2>Section 1</h2>
+            <p>This is the content of Section 1.</p>
+        </section>
+        
+        <section id="section2">
+            <h2>Section 2</h2>
+            <p>This is the content of Section 2.</p>
+        </section>
+        
+        <section id="section3">
+            <h2>Section 3</h2>
+            <p>This is the content of Section 3.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 My GitHub Page</p>
+    </footer>
+    
+    <!-- Add your JavaScript code or external script links here -->
+</body>
+</html>
 
-[1. Exploratory Data Analysis on CNLOPB drilling data.html](https://github.com/mojammelhuque/Drilling-Data-Analytics/blob/main/1.%20Exploratory%20Data%20Analysis%20on%20CNLOPB%20drilling%20data.html)
